@@ -1,0 +1,45 @@
+body {
+  background:#212529;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+header {
+  margin-top:120px;
+}
+
+header h1 {
+  color:#DB2449;
+  font-size:22px;
+  font-weight:700;
+}
+
+header h1 span {
+  color:#fff;
+}
+
+main {
+  margin-top:120px;
+}
+
+main h1 {
+  color:#DFE0E2;
+  font-size:22px;
+  line-height:1.4;
+  font-weight:700;
+}
+
+main h1 a {
+  color:#fff;
+  border-bottom:dotted 1px #DFE0E2;
+  padding-bottom:4px;
+  -webkit-transition: all .2s ease;
+     -moz-transition: all .2s ease;
+      -ms-transition: all .2s ease;
+       -o-transition: all .2s ease;
+          transition: all .2s ease;
+}
+
+main h1 a:hover {
+  color:rgba(255,255,255,0.95);
+}

@@ -2,10 +2,10 @@
   "convertHtml": {
     "relativePaths": false
   },
+  "customRubyPath": null,
   "debug": false,
-  "domain": null,
+  "followLeader": true,
   "lintScripts": false,
-  "modelSource": null,
   "preprocessorLocations": [
     "bower_components/foundation/scss",
     "assets"
@@ -15,12 +15,8 @@
   "projectDescription": "The most advanced responsive front-end framework in the world.",
   "projectName": "favheart",
   "publishedId": null,
-  "sass": {
-    "useLibSass": true
-  },
-  "serverHostname": null,
+  "serverHostname": "192.168.1.224",
   "serverPort": null,
-  "simpleModePartnerServer": null,
   "templateDefaultLayout": "layout",
   "templateDefaultPage": "index",
   "templateDirectory": "templates",
